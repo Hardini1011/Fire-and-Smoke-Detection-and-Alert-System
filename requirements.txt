@@ -1,0 +1,8 @@
+streamlit
+opencv-python-headless
+ultralytics
+numpy
+stqdm
+deep_sort_realtime
+python-dotenv
+twilio
