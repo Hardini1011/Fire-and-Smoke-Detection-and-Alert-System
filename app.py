@@ -179,7 +179,7 @@ def video_processing(video_file, model, tracker=None, centers=None):
     video_writer.release()
     subprocess.call(
         args=[
-            "ffmpeg ",  # Path to your ffmpeg binary
+            "ffmpeg",  # Path to your ffmpeg binary
             "-i",
             temp_file,
             "-c:v",
