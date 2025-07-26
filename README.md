@@ -20,7 +20,10 @@ This project is a real-time **Fire and Smoke Detection System** using **YOLOv8**
 Install the following dependencies:
 ```bash
 pip install streamlit opencv-python-headless ultralytics numpy stqdm deep_sort_realtime python-dotenv twilio
-
+```
 ## Contributors
 Soha Chauhan
 Hardini Dalwadi
+
+
+
