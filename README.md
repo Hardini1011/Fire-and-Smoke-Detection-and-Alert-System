@@ -22,7 +22,7 @@ Install the following dependencies:
 pip install streamlit opencv-python-headless ultralytics numpy stqdm deep_sort_realtime python-dotenv twilio
 ```
 ## Contributors
-Soha Chauhan
+Soha Chauhan & 
 Hardini Dalwadi
 
 
